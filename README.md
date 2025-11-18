@@ -1,9 +1,9 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=11224E&height=120&section=header"/>
 
 ## Olá, sejam muito bem vindos 😊 !!! 
 
-
+https://github.com/lucasrodriguessilv/lucasrodriguessilv/blob/main/README.md
 
 
 
@@ -14,6 +14,13 @@
  <img height="25" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
  <img height="25" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
  <img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />   
+  <img height="25" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img height="25" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img height="25" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  
+
+
+
  </div>
 
 # Contato☎️
@@ -25,5 +32,5 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=11224E&height=120&section=footer"/>
 
